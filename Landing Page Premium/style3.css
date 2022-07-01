@@ -1,0 +1,357 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+/*Espaçamento inicial da 3 pag*/
+.imagens3{
+    position: absolute;
+    margin-left: 250px;
+    display: flex;
+    row-gap: 20px;
+    column-gap: 40px;
+}
+/*Configuração da 1 imagem da 3pag*/
+.fone1{
+    position: absolute;
+    border: 1px solid #030303;
+    width: 393px;
+    height: 477px;
+    top: 93px;
+}
+
+/*Configuração da 2 imagem da 3pag*/
+.fone2{
+    position: absolute;
+    border: 1px solid #030303;
+    width: 292px;
+    height: 180px;
+    left: 587px;
+    top: 390px; 
+}
+/*Configuração da 3 imagem da 3pag*/
+.fone3{
+    position: absolute;
+    border: 1px solid #030303;
+    width: 292px;
+    height: 180px;
+    left: 587px;
+    top: 93px;
+}
+/*Configuração da 4 imagem da 3pag*/
+.fone4{
+    position: absolute;
+    border: 1px solid #030303;
+    width: 292px;
+    height: 180px;
+    left: 960px;
+    top: 390px;
+}
+/*Configuração da 5 imagem da 3pag*/
+.fone5{
+    position: absolute;
+    flex-direction: column;
+    border: 1px solid #030303;
+    width: 292px;
+    height: 180px;
+    left: 960px;
+    top: 93px;
+}
+
+
+/*Configuração da descrição da 1 imagem da 3pag*/
+.fe1{
+    position:absolute;
+    font-family: 'Rajdhani', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    top: 580px;
+}
+/*Configuração da descrição da 2 imagem da 3pag*/
+.fe2{
+    position:absolute;
+    font-family: 'Rajdhani', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    top: 580px;
+    left: 588px;
+}
+/*Configuração da descrição da 3 imagem da 3pag*/
+.fe3{
+    position:absolute;
+    font-family: 'Rajdhani', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    top: 280px;
+    left: 588px;
+}
+/*Configuração da descrição da 4 imagem da 3pag*/
+.fe4{
+    position:absolute;
+    font-family: 'Rajdhani', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    top: 580px;
+    left: 960px;
+}
+/*Configuração da descrição da 5 imagem da 3pag*/
+.fe5{
+    position:absolute;
+    font-family: 'Rajdhani', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    top: 280px;
+    left: 960px;
+}
+/*Espaçamento inicial dos valores da 3pag*/
+.valor3{
+    position: absolute;
+    margin-left: 250px;
+    display: flex;
+    row-gap: 20px;
+    column-gap: 40px;
+
+}
+/*Configuração do valor da 1 imagem da 3pag*/
+.va1{
+    position:absolute;
+    font-family: 'Rajdhani', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    top: 603px;
+    left: 50px;
+
+}
+/*Configuração do valor da 2 imagem da 3pag*/
+.va2{
+    position:absolute;
+    font-family: 'Rajdhani', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    top: 603px;
+    left: 646px;
+}
+/*Configuração do valor da 3 imagem da 3pag*/
+.va3{
+    position:absolute;
+    font-family: 'Rajdhani', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    top: 303px;
+    left: 640px;
+}
+/*Configuração do valor da 4 imagem da 3pag*/
+.va4{
+    position:absolute;
+    font-family: 'Rajdhani', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    top: 603px;
+    left: 1040px;
+}
+/*Configuração do valor da 5 imagem da 3pag*/
+.va5{
+    position:absolute;
+    font-family: 'Rajdhani', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    top: 303px;
+    left: 1034px;
+}
+/*Espaçamentos inicis das estrelas da 3pag*/
+.este{
+    position: absolute;
+    margin-left: 250px;
+    display: flex;
+    row-gap: 20px;
+    column-gap: 40px;
+
+}
+/*Configuração da linha inferior as imagens da 3pag*/
+.linha4{
+    position: relative;
+    top:660px;
+
+}
+/*Espaçamento inicial das informações a baixo das imagens da 3pag*/
+.conteudo3{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+/*Configuração do titulo das informações a baixo das imagens da 3pag*/
+.conteudo-principal3{
+    position:absolute;
+    font-family: 'Rajdhani', sans-serif;
+    color: #000000;
+    font-size: 48px;
+    top: 2780px;
+    left: 620px;
+}
+/*Configuração do paragrafo das informações a baixo das imagens da 3pag*/
+.paragrafo-principal3{
+    position:absolute;
+    font-family: 'Rajdhani', sans-serif;
+    color: #000000;
+    font-size: 22px;
+    top: 2860px;
+    right: 610px;
+}
+/*Configuração da linha abaixo das informações da 3pag*/
+.linha5{
+    position: relative;
+    top:800px;
+}
+/*Alinhamento inicial do menu inferior da 3pag*/
+.conteudof{
+    display: flex;
+    margin: 80px;
+    gap: 60px;
+    justify-content:center
+}
+/*Configuração do logo inferior da 3pag*/
+.flogo{
+    height: 20px;
+    position: absolute;
+    top:2960px;
+    left: 100px;
+}
+
+/*Espaçamento inicial do menu inferior*/
+.cabecalhof{
+    position: absolute;
+    top:2980px;
+    right: 400px;
+}
+
+/*Configuração do Main menu e seus elementos*/
+.main{
+    color: #a7661d;
+    position: absolute;
+    right: 700px;
+    bottom: 10px;
+    font-family: 'Rajdhani', sans-serif ;
+    font-size: 22px;
+}
+
+.home{
+    position: absolute;
+    right: 752px;
+    
+}
+.about{
+    position: absolute;
+    right: 752px;
+    top: 25px;
+}
+
+.shop{
+    position: absolute;
+    right: 759px;
+    top: 48px;
+}
+.help{
+    position: absolute;
+    right: 761px;
+    top: 74px; 
+}
+/*Fim da Configuração do Main menu e seus elementos*/
+
+
+/*Configuração do Company e seus elementos*/
+.company{
+    color: #a7661d;
+    position: absolute;
+    bottom: 10px;
+    right: 552px;
+    font-family: 'Rajdhani', sans-serif ;
+    font-size: 22px;
+
+}
+
+.thec{
+    position: absolute;
+    right: 550px;
+}
+.careers{
+    position: absolute;
+    right: 588px;
+    top: 25px;
+}
+
+.press{
+    position: absolute;
+    right:602px;
+    top: 48px;
+}
+/*Fim da Configuração do Company e seus elementos*/
+
+/*Configuração do discover e seus elementos*/
+.discover{
+    color: #a7661d;
+    position: absolute;
+    bottom: 10px;
+    right: 422px;
+    font-family: 'Rajdhani', sans-serif ;
+    font-size: 22px;
+}
+
+.the{
+    position: absolute;
+    right: 435px;
+}
+.our{
+    position: absolute;
+    right: 422px;
+    top: 25px;
+}
+
+.brand{
+    position: absolute;
+    right: 419px;
+    top: 48px;
+}
+/*Fim da Configuração do discover e seus elementos*/
+
+/*Configuração do Find Us e seus elementos*/
+.find{
+    color: #a7661d;
+    position: absolute;
+    bottom: 10px;
+    right: 280px;
+    font-family: 'Rajdhani', sans-serif ;
+    font-size: 22px;
+}
+
+.face{
+    position: absolute;
+    right: 300px;
+}
+.tt{
+    position: absolute;
+    right: 318px;
+    top: 25px;
+}
+
+.insta{
+    position: absolute;
+    right: 300px;
+    top: 48px;
+}
+/*Fim da Configuração do Find Us e seus elementos*/
+
+/*Configuração da linha a baixo do menu inferior*/
+.linha6{
+    position: relative;
+    top:830px;
+}
+
+/*Configuração do logo C*/
+.c{
+    border-radius: 20px;
+    position: absolute;
+    top:3115px;
+    left: 90px;
+}
+/*Configuração do nome da empresa*/
+.empre{
+    position: absolute;
+    top:3115px;
+    left: 120px;
+}

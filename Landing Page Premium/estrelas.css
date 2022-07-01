@@ -1,0 +1,135 @@
+/*configuração Geral das estrelas de avaliação*/
+.estrelas1{
+    margin-left: 640px;
+}
+.estrelas1 input[type=radio] {
+  display: none;
+}
+.estrelas1 label i.fa{
+  font-size: 1.2em
+}
+.estrelas1 label i.fa:before {
+  content:'\f005';
+  color: #FC0;
+}
+.estrelas1 input[type=radio]:checked ~ label i.fa:before {
+  color: #CCC;
+}
+
+.estrelas2{
+  margin-left: 400px;
+}
+.estrelas2 input[type=radio] {
+display: none;
+}
+.estrelas2 label i.fa{
+font-size: 1.2em
+}
+.estrelas2 label i.fa:before {
+content:'\f005';
+color: #FC0;
+}
+.estrelas2 input[type=radio]:checked ~ label i.fa:before {
+color: #CCC;
+}
+
+.estrelas3{
+  position:absolute;
+  top: 2682px;
+  right: 1260px;
+}
+.estrelas3 input[type=radio] {
+display: none;
+}
+.estrelas3 label i.fa{
+font-size: 1.2em
+}
+.estrelas3 label i.fa:before {
+content:'\f005';
+color: #FC0;
+}
+.estrelas3 input[type=radio]:checked ~ label i.fa:before {
+color: #CCC;
+}
+.estrelas4{
+  position:relative;
+  left: 1020px;
+  top: 282px;
+}
+.estrelas4 input[type=radio] {
+display: none;
+}
+.estrelas4 label i.fa{
+font-size: 1.2em
+}
+.estrelas4 label i.fa:before {
+content:'\f005';
+color: #FC0;
+}
+.estrelas4 input[type=radio]:checked ~ label i.fa:before {
+color: #CCC;
+}
+
+
+.estrelas5{
+  margin-left: 640px;
+  position:absolute;
+  top: 2682px;
+  left: 380px;
+}
+.estrelas5 input[type=radio] {
+display: none;
+}
+.estrelas5 label i.fa{
+font-size: 1.2em
+}
+.estrelas5 label i.fa:before {
+content:'\f005';
+color: #FC0;
+}
+.estrelas5 input[type=radio]:checked ~ label i.fa:before {
+color: #CCC;
+}
+
+
+.estrelas6{
+  position:absolute;
+  top: 2682px;
+  left: 1395px;
+  
+}
+.estrelas6 input[type=radio] {
+display: none;
+}
+.estrelas6 label i.fa{
+font-size: 1.2em
+}
+.estrelas6 label i.fa:before {
+content:'\f005';
+color: #FC0;
+}
+.estrelas6 input[type=radio]:checked ~ label i.fa:before {
+color: #CCC;
+}
+
+
+.estrelas7{
+  margin-left: 640px;
+  position:absolute;
+  top: 2370px;
+  left: 756px;
+}
+.estrelas7 input[type=radio] {
+display: none;
+}
+.estrelas7 label i.fa{
+font-size: 1.2em
+}
+.estrelas7 label i.fa:before {
+content:'\f005';
+color: #FC0;
+}
+.estrelas7 input[type=radio]:checked ~ label i.fa:before {
+color: #CCC;
+}
+
